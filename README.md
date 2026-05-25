@@ -2,10 +2,6 @@
 
 A web app that helps users find upcoming events in their area, built with Python FastAPI and a vanilla JS frontend.
 
-**Time spent: ~1.5 hours**
-
----
-
 ## Prerequisites
 - Python 3.8+
 - A free Ticketmaster API key from [developer.ticketmaster.com](https://developer.ticketmaster.com)
